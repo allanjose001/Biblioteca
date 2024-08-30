@@ -1,1 +1,1 @@
-Sistema simples para gerencia de lviros de uma livraria com armazenamento dos dados em arquivo .txt
+Sistema simples para gerencia de livros de uma biblioteca com armazenamento dos dados em arquivo .txt
